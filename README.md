@@ -1,4 +1,4 @@
-# miz-otel-pack
+otel-pack
 
 OpenTelemetry pack that translates **agent operation spans into business-metric spans**.
 
